@@ -9,7 +9,7 @@ body {
   background-image: url("img/bc1.jpg");
   background-repeat: no-repeat;
   background-position: top center;
-  background-size: 208%;
+  background-size: 218%;
 }
 
 .container {
@@ -39,7 +39,7 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("smartphone.png");
+  background-image: url("img/smartphone.png");
 }
 
 .header-phone {
@@ -186,7 +186,7 @@ body {
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-footer.svg");
+  background-image: url("img/smartphone.png");
 }
 
 .footer-phone {

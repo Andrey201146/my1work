@@ -5,14 +5,15 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-color: #dfe4e9;
+  background-image: url("img/bc1.jpg");
   background-repeat: no-repeat;
   background-position: top center;
+  background-size: 208%;
 }
 
 .container {
-  max-width: 928px;
+  max-width: 538px;
   margin: 0 auto;
   padding: 0 16px;
 }
@@ -38,7 +39,7 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
+  background-image: url("smartphone.png");
 }
 
 .header-phone {

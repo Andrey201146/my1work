@@ -1,7 +1,7 @@
 body {
   margin: 0;
   min-width: 960px;
-  max-height: 3000px;
+  max-height: 5000px;
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
@@ -9,7 +9,7 @@ body {
   background-image: url("img/bc2.jpg");
   background-repeat: no-repeat;
   background-position: top center;
-  background-size: 225%;
+  background-size: cover;
 }
 
 .container {

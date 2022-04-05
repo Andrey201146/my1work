@@ -6,7 +6,7 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  background-image: url("img/bc1.jpg");
+  background-image: url("img/bc2.jpg");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: 225%;
@@ -170,9 +170,7 @@ body {
   color: #ffffff;
 }
 
-.bg {
-  background-color: #83868a28;
-}
+
 .page-footer {
   padding: 40px 0;
   background-color: #00417d;

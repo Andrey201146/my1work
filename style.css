@@ -170,6 +170,9 @@ body {
   color: #ffffff;
 }
 
+.bg {
+  background-color: #83868a28;
+}
 .page-footer {
   padding: 40px 0;
   background-color: #00417d;

@@ -39,6 +39,7 @@ body {
 
 .header-email {
   padding-left: 30px;
+  background-image: disable;
 }
 
 .header-phone {
@@ -185,6 +186,7 @@ body {
 
 .footer-email {
   padding-left: 30px;
+  background-image: disable;
 }
 
 .footer-phone {
